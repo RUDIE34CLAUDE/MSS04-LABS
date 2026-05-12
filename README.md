@@ -1,1 +1,1 @@
-# MSS04-labs
+This is my first Git example for the course MSS04
